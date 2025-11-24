@@ -39,4 +39,6 @@ Instructions for Testing
    study_hours = 1,attendance=60 (likely FAIL)
    study_hours = 4,attendance=90 (likely PASS)
 3. Try multiple combinations of inputs to see how the prediction changes.
-   
+<img width="341" height="55" alt="student_performance_predictor png1" src="https://github.com/user-attachments/assets/115d90d1-791d-4ea8-908d-dcc2caf41210" />
+<img width="311" height="61" alt="student_performance_predictor png" src="https://github.com/user-attachments/assets/df2c7b3c-ea24-44bf-81d2-823648aef384" />
+
