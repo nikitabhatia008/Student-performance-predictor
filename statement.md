@@ -2,12 +2,12 @@ Student Performance Predictor
 
 Problem Statement 
 Students often do not know if their current study effort is enough to pass an exam.
-This project uses a simple machine learning model to predict whether a student will **pass ** or **fail** based on study hours and attendance.
+This project aims to create a simple **rule-based program** that predicts whether a student will **pass ** or **fail** based on study hours and attendance.
 
 Scope of the Project 
-Uses a very small sample dataset defined inside the code.
-Considers only two input : **study hours per day** and **attendance(%)**.
-Uses **Logistic Regression ** for basic binary classification(pass/fail).
+The project is limited to **two input factors**.
+ **study hours per day** and **attendance(%)**.
+Uses **if-else conditions ** to decide the prediction.
 Runs as a simple command-line python program.
 
 Target Users 
@@ -17,6 +17,6 @@ Target Users
 
 High-Level-Features
 Takes user input: study hours and attendance.
-Predicts **Pass** or **Fail** using a trained ML model.
+Predicts **Pass** or **Fail** using if-else conditions.
 Simple python implementation with minimal code.
-No CSV or external files required.
+
